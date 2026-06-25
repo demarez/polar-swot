@@ -1,6 +1,6 @@
-Eddy detection in polar and subpolar areas. 
+Eddy detection in polar and subpolar areas from raw L3_LR_SSH SWOT 'filtered SLA'. 
 
-Companion of [1] de Marez et al. 2026b (under review), which uses the methodology defined in [2] de Marez et al. 2026a (https://os.copernicus.org/articles/22/1515/2026/)
+Companion dataset of [1] de Marez et al. 2026b (under review), which uses the methodology defined in [2] de Marez et al. 2026a (https://os.copernicus.org/articles/22/1515/2026/).
 
 For the Norther and the Southern hemishpheres, the detection is performed in sub-domains, as defined in Fig. 1 of [1].
 
