@@ -11,7 +11,7 @@ The detections for each sub-domain are stored in sub-folders, in which:
 - The sub-sub-folders *raw_detection/* contain the detections from **all** SWOT tracks, prior to duplicate removal. This is the eddy field we suggest to use for *e.g.*, colocalization of profile data.
 
 
-We attach a .ipynb notebook allowing to load and quickly visualize the eddy field. 
+We supply in the *notebooks/* folder notebooks allowing to load and quickly visualize the eddy field. 
 
 
 
